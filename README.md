@@ -6,6 +6,7 @@ and modify for servers
 
 ### Showcase
 ![enter image description here](https://img.guildedcdn.com/ContentMediaGenericFiles/46d5ea982ee83befe0f0fe7662a80135-Full.webp?w=575&h=444)
+
 We have math commands, a economy, fun commands many more to be added in the future
 
 ### [our community](https://www.guilded.gg/i/E6gNDLX2)
