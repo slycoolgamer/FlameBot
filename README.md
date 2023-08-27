@@ -1,4 +1,4 @@
-![enter image description here](https://img.guildedcdn.com/ContentMediaGenericFiles/44baedbc803c84f9d89de2ce20de86cf-Full.webp?w=2800&h=800)
+![enter image description here](https://img.guildedcdn.com/ContentMediaGenericFiles/4042555322cb162350e6cce13a61b81a-Full.webp?w=2710&h=720)
 ## What Is Flame
 
 Flame is a open-source Guilded bot which is in development. The goal of this project was to eventually build a high-quality bot that was free to use
